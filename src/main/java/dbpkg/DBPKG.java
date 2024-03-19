@@ -8,6 +8,6 @@ public class DBPKG {
 		Connection con = DriverManager.getConnection
 				("jdbc:oracle:thin:@//localhost:1521/xe","system","1234");
 		return con;
-	}
+	} 
 
 }
