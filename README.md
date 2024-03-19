@@ -27,4 +27,4 @@ JS를 통한 간단한 유효성 검사가 포함되어 있습니다.
 ![rank](https://github.com/ajs0813/HRD_Voting/assets/143467352/faa8db98-205d-435d-a70f-f4a24e9fbbcc)
 <b>지역구의원투표 프로그램의 후보자등수</b>
 <br><br>
-후보 테이블과 투표 테이블의 결과를 GROUP BY 한 뒤 COUNT를 통한 후보자 투표 결과를 SELECT 하는 페이지입니다.
+후보 테이블과 투표 테이블의 결과를 GROUP BY 한 뒤 COUNT를 통한 후보자 투표 결과를 SELECT 하는 페이지입니다. 
